@@ -4,10 +4,33 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>Flavors copy 1.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
 		<key>Flavors.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>B21457EB24884343006676F4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B214582524884A21006676F4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B214583724884E95006676F4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
